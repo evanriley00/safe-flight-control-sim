@@ -1,0 +1,4 @@
+# id,call_sign,x_nm,y_nm,altitude_ft,speed_kt,heading_deg
+1,LNX101,10.0,10.0,31000,460,45
+2,VTR220,23.0,23.0,31000,445,225
+3,RDN330,60.0,10.0,28000,430,90

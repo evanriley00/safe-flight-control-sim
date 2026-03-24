@@ -1,0 +1,4 @@
+# A second deterministic scenario with two crossing tracks and one trailing aircraft.
+1,ARC401,15.0,40.0,29000,420,135
+2,BLU552,40.0,15.0,29000,420,315
+3,SCT703,10.0,60.0,33000,460,180

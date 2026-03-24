@@ -1,0 +1,13 @@
+.alire/
+bin/
+obj/
+lib/
+*.ali
+*.o
+*.exe
+*.dll
+*.log
+*.bexch
+*.stdout
+*.stderr
+b__*
