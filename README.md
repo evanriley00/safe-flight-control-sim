@@ -18,8 +18,6 @@ This project is meant to demonstrate:
 - Automated regression tests
 - Clear, intentional engineering over flashy complexity
 
-Instead of being "just some Ada code," it is structured to resemble the shape of a real reliability-oriented control system.
-
 ## Architecture
 
 ```text
@@ -254,20 +252,3 @@ Ada is a strong fit because it encourages:
 - clear interfaces,
 - maintainable package boundaries,
 - and engineering discipline that matters in long-lived critical systems.
-
-## Future Upgrades
-
-If you want to push this further into portfolio-level territory, the best next steps would be:
-
-- Add bounded airspace sectors and handoff logic
-- Add multiple advisory strategies
-- Add richer controller rules for reroutes and heading changes
-- Add a terminal dashboard or replay output
-
-## Build Intent
-
-This is intentionally small, clean, and understandable.
-
-The goal is not to simulate the entire FAA. The goal is to show:
-
-"I can think in terms of safe system design, structure code like an engineer, and learn the tools used in critical environments."
